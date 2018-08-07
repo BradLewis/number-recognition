@@ -105,3 +105,4 @@ venv.bak/
 
 number-recognition/
 MNIST_data/
+.vscode/
